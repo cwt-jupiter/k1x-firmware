@@ -1,7 +1,7 @@
 # Maintainer: Chaiwat Suttipongsakul <cwt@bashell.com>
 
 pkgname=k1x-firmware
-pkgdesc="Firmware for SpacemiT K1-x from Bianbu buildroot-ext"
+pkgdesc="Firmware for SpacemiT K1-x boards"
 pkgver=2.0.2
 pkgrel=1
 arch=('riscv64')
